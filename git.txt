@@ -1,0 +1,6 @@
+git init
+git remote add origin https://ws_1_6@gitlab.com/ws_1_6/derevyanko_a_s_p1_task1
+git add -A
+git checkout -b session1
+git commit -m задание
+git push origin session1
